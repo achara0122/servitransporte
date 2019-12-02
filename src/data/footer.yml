@@ -1,21 +1,12 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+  - icon: fa-envelope-o
+    title: Email
+    url: 'mailto:andrescharry@ingenieros.com'
+copyright: '&copy; Servitransporte'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Realizado por Andrés Charry Álvarez
+    url: 'https://andrescharry.netlify.com/'
