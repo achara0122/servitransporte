@@ -4,7 +4,7 @@ subtitle: A continuación puede observar algunos de nuestros servicios
 background_style: style5
 menus:
   main:
-    title: Nuestros Servicios
+    title: services
     weight: 2
 template: page
 ---
