@@ -19,10 +19,10 @@ sections:
   - background_style: style1
     component: Icons
     feature_icons:
-      - icon: fa-diamond
-        style: style1
-        title: Lorem
       - icon: fa-heart-o
+        style: style3
+        title: Lorem
+      - icon: fa-bus
         style: style2
         title: Ipsum
       - icon: fa-code
@@ -30,14 +30,12 @@ sections:
         title: Dolor
     section_id: one
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+      Con la finalidad de satisfacer la necesidad de nuestros clientes,
+      prestamos el servicio de transporte de pasajeros acorde a sus
+      requerimientos. Por tal motivo nuestras metas son proporcionar un servicio
+      de alta calidad teniendo como base la responsabilidad, seguridad, respeto
+      y cumplimiento.
+    title: Nuestras metas
     type: icons
   - background_style: style2
     component: Spotlights
