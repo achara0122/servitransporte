@@ -1,10 +1,10 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Nuestros servicios
+subtitle: A continuación puede observar algunos de nuestros servicios
 background_style: style5
 menus:
   main:
-    title: Generic
+    title: Nuestros Servicios
     weight: 2
 template: page
 ---
