@@ -1784,7 +1784,7 @@ $palette: (
 		}
 
 		@include breakpoint('<=small') {
-			@include padding(7em, 3em);
+			@include padding(7em, 1.5em);
 			height: auto;
 			min-height: 0;
 
